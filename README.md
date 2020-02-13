@@ -7,10 +7,10 @@ You can buy the book from here: [](http://shop.oreilly.com/product/0636920028154
 ### Week 1
 -----
 
-### TODO
+### TODO Lists
 -----
 
-## Part I: Getting Started
+### Part I: Getting Started
 
 * [ ] A python Q & A Session
     * [ ] Why Do People Use Python?
@@ -99,8 +99,32 @@ You can buy the book from here: [](http://shop.oreilly.com/product/0636920028154
 ### Week 2
 -----
 
-### TODO
+### TODO List
 -----
 
-## Part II: Types and Operations
+### Part II: Types and Operations
 
+* [x] Introducing Python Object Types
+    * Numbers
+    * Strings
+    * Lists
+    * Dictionaries
+    * Tuples
+    * Files
+    * Sets
+    * Other core types
+    * Program Unit Types
+    * Implementation-related types
+* [ ] Numeric Types
+* [ ] The Dynamic Typing Interlude
+* [ ] String Fundamentals
+* [ ] Lists and Dictionaries
+* [ ] Tuples, Files, and Everything Else
+
+### Week 3
+-----
+
+### TODO Lists
+-----
+
+### Part III: Statements And Syntax
